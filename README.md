@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here's a sample "About Me" section for your GitHub profile, tailored to your background in cybersecurity and web development:<br><br>Hi, I'm Jayant Kumar 👋<br>I'm a B.Tech CSE student specializing in Cybersecurity with a passion for exploring secure and scalable software solutions. Along with my focus on security, I have strong experience in Web Development, allowing me to build interactive and robust web applications
+<br>I'm a B.Tech CSE student specializing in Cybersecurity with a passion for exploring secure and scalable software solutions. Along with my focus on security, I have strong experience in Web Development, allowing me to build interactive and robust web applications
 
 
 ## 🌐 Socials:
